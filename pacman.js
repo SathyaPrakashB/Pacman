@@ -1,7 +1,7 @@
 var pos = 0;
 var pacArray = [
-  ["D:/xxxx projects xxxx/java script project/pacman/PacMan1.png", "D:/xxxx projects xxxx/java script project/pacman/PacMan2.png"],
-  ["D:/xxxx projects xxxx/java script project/pacman/PacMan3.png", "D:/xxxx projects xxxx/java script project/pacman/PacMan4.png"],
+  ["./PacMan1.png", "./PacMan2.png"],
+  ["./PacMan3.png", "./PacMan4.png"],
 ];
 var direction = 0;
 var focus = 0;
